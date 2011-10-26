@@ -1,11 +1,21 @@
 .bundle
+<<<<<<< HEAD
 db/*.sqlite3*
 log/*.log
 *.log
 /tmp/
+=======
+db/*.sqlite3
+log/*.log
+/tmp/
+.sass-cache/
+>>>>>>> 4e375c16b94b78e10d9b43ecb91964d96f82d1b1
 doc/
 *.swp
 *~
 .project
 .DS_Store
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4e375c16b94b78e10d9b43ecb91964d96f82d1b1
